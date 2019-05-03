@@ -1,4 +1,4 @@
-# teste
+# Eventos Globais com Vue.js
 
 > A Vue.js project
 
